@@ -5,14 +5,15 @@ ROS 2 Humble üzerinde, VRX (Gazebo Garden) + ArduPilot SITL simülasyonunda ça
 
 ## Demo
 
-![Parkur-1 waypoint takibi](media/waypoint_takibi.gif)
+<img src="media/waypoint_takibi.gif" width="600">
 
 *ArduRover AUTO modunda 4 köşeli dikdörtgen waypoint dizisinin takibi — VRX + ArduPilot SITL, 8× hızlandırılmış*
 
 
-![Harita üzerinden hedef noktaya seyir](media/harita_hedef.gif)
+<img src="media/harita_hedef.gif" width="600">
 
 *QGroundControl haritasından işaretlenen noktaya otonom seyir*
+
 ---
 
 ## Durum
