@@ -12,7 +12,7 @@ ROS 2 Humble üzerinde, VRX (Gazebo Garden) + ArduPilot SITL simülasyonunda ça
 
 <img src="media/harita_hedef.gif" width="600">
 
-*QGroundControl haritasından işaretlenen noktaya otonom seyir*
+*QGroundControl haritasından işaretlenen noktaya otonom seyir, 8x hızlandırılmış*
 
 ---
 
